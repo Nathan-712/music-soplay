@@ -1,6 +1,11 @@
 {
   "tracks": [
-    { "id": "demo1", "title": "Lagu Demo 1", "artist": "Kamu", "dur": 180, "path": "audio/demo1.mp3" },
-    { "id": "demo2", "title": "Lagu Demo 2", "artist": "Kamu", "dur": 210, "path": "audio/demo2.mp3" }
+    {
+      "id": "demo tarot",
+      "title": "tarot",
+      "artist": ".feast",
+      "dur": 306,
+      "path": "Tarot.webm"
+    }
   ]
 }
