@@ -1,11 +1,1 @@
-{
-  "tracks": [
-    {
-      "id": "demo-tarot",
-      "title": "tarot",
-      "artist": ".feast",
-      "dur": 306,
-      "path": "Tarot.webm"
-    }
-  ]
-}
+{"tracks":[]}
